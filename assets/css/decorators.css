@@ -1,0 +1,33 @@
+.hero-img-1{
+    background-image: url('../images/decorators/img-3.png');
+    background-size: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    
+  }
+ 
+  .caroucel-img {
+    width: 100%;
+    height: 700px;
+ }
+  @media (max-width:900px) {
+    
+    .caroucel-img {
+     width: 100%;
+     height: 250px;
+  }
+  .adj-text{
+     font-size: medium;
+
+  }
+  .font-change{
+    font-size: x-large;
+  }
+  .hero-img-1{
+    background-image: url('../images/decorators/img-3.png');
+    width: 90%;
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px;
+  }
+  }
